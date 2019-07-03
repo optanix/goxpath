@@ -5,10 +5,10 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/ChrisTrenkamp/goxpath/lexer"
-	"github.com/ChrisTrenkamp/goxpath/parser"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
+	"github.com/optanix/goxpath/lexer"
+	"github.com/optanix/goxpath/parser"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree"
 )
 
 func TestISO_8859_1(t *testing.T) {

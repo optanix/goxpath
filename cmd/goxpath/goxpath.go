@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ChrisTrenkamp/goxpath"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
+	"github.com/optanix/goxpath"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree"
 )
 
 type namespace map[string]string

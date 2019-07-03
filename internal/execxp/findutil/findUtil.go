@@ -3,9 +3,9 @@ package findutil
 import (
 	"encoding/xml"
 
-	"github.com/ChrisTrenkamp/goxpath/parser/pathexpr"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/xconst"
+	"github.com/optanix/goxpath/parser/pathexpr"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/xconst"
 )
 
 const (

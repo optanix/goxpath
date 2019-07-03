@@ -3,7 +3,7 @@ package xmlnode
 import (
 	"encoding/xml"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 //XMLNode will represent an attribute, character data, comment, or processing instruction node
