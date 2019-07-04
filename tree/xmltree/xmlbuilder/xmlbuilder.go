@@ -3,7 +3,7 @@ package xmlbuilder
 import (
 	"encoding/xml"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 //BuilderOpts supplies all the information needed to create an XML node.

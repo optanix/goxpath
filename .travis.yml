@@ -4,8 +4,8 @@ go:
   - 1.6
 
 before_install:
-  - go get -u github.com/ChrisTrenkamp/goxpath
-  - go get -u github.com/ChrisTrenkamp/goxpath/cmd/goxpath
+  - go get -u github.com/optanix/goxpath
+  - go get -u github.com/optanix/goxpath/cmd/goxpath
   - go get -u github.com/wadey/gocovmerge
 
 script:

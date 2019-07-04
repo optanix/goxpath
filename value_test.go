@@ -5,7 +5,7 @@ import (
 	"runtime/debug"
 	"testing"
 
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
+	"github.com/optanix/goxpath/tree/xmltree"
 )
 
 func execVal(xp, x string, exp string, ns map[string]string, t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 type XMLEle struct {

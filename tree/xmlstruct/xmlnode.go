@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 type XMLNode struct {

@@ -3,7 +3,7 @@ package xsort
 import (
 	"sort"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 type nodeSort []tree.Node

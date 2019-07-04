@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 func bothNodeOperator(left tree.NodeSet, right tree.NodeSet, f *xpFilt, op string) error {

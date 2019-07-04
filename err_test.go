@@ -6,9 +6,9 @@ import (
 	"runtime/debug"
 	"testing"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlele"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree"
+	"github.com/optanix/goxpath/tree/xmltree/xmlele"
 )
 
 type dummyType string

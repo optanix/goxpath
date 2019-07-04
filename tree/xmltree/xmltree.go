@@ -6,9 +6,9 @@ import (
 
 	"golang.org/x/net/html/charset"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlbuilder"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlele"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree/xmlbuilder"
+	"github.com/optanix/goxpath/tree/xmltree/xmlele"
 )
 
 //ParseOptions is a set of methods and function pointers that alter

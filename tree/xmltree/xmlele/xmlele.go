@@ -3,9 +3,9 @@ package xmlele
 import (
 	"encoding/xml"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlbuilder"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlnode"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree/xmlbuilder"
+	"github.com/optanix/goxpath/tree/xmltree/xmlnode"
 )
 
 //XMLEle is an implementation of XPRes for XML elements

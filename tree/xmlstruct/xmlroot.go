@@ -3,7 +3,7 @@ package xmlstruct
 import (
 	"encoding/xml"
 
-	"github.com/ChrisTrenkamp/goxpath/tree"
+	"github.com/optanix/goxpath/tree"
 )
 
 type XMLRoot struct {

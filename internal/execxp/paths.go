@@ -6,14 +6,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ChrisTrenkamp/goxpath/internal/execxp/findutil"
-	"github.com/ChrisTrenkamp/goxpath/internal/execxp/intfns"
-	"github.com/ChrisTrenkamp/goxpath/internal/xsort"
-	"github.com/ChrisTrenkamp/goxpath/lexer"
-	"github.com/ChrisTrenkamp/goxpath/parser"
-	"github.com/ChrisTrenkamp/goxpath/parser/pathexpr"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/xconst"
+	"github.com/optanix/goxpath/internal/execxp/findutil"
+	"github.com/optanix/goxpath/internal/execxp/intfns"
+	"github.com/optanix/goxpath/internal/xsort"
+	"github.com/optanix/goxpath/lexer"
+	"github.com/optanix/goxpath/parser"
+	"github.com/optanix/goxpath/parser/pathexpr"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/xconst"
 )
 
 type xpFilt struct {
